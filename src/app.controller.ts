@@ -116,7 +116,7 @@ export class AppController {
             noBtn.style.left = x + 'px';
             noBtn.style.top = y + 'px';
           });
-
+S
           noBtn.addEventListener('click', () => {
             alert('Hmm… poskusi znova 😉');
           });
