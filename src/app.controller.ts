@@ -10,7 +10,7 @@ export class AppController {
       <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Valentinovo 💖</title>
+        <title>E-asistent</title>
         <style>
           body {
             display: flex;
