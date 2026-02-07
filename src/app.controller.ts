@@ -107,7 +107,7 @@ export class AppController {
           const yesBtn = document.getElementById('yes');
 
           yesBtn.addEventListener('click', () => {
-            document.body.innerHTML = '<h1>💘 Vesel Valentinovo!</h1>';
+            document.body.innerHTML = '<h1>Hvala tiii,💘 Vesel Valentinovo!</h1>';
           });
 
           noBtn.addEventListener('mouseover', () => {
